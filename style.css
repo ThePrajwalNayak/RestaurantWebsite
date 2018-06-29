@@ -1,0 +1,190 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+}
+
+/*START - SECTION HOME*/
+#home {
+    position: relative;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('./images/screen.jpg');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#logoWrapper {
+    float: left;
+    width: 100px;
+    height: 100px;
+    margin: 20px 0 0 60px;
+}
+#logoWrapper img {
+    width: 100%;
+    height: auto;
+}
+#home ul {
+    margin-right: 50px;
+    font-size: 15px;
+    float: right;
+    list-style-type: none;
+    margin-top: 30px;
+}
+#home ul li {
+    display: inline-block;
+    cursor: pointer;
+    padding: 5px 10px;
+    margin-right: 10px;
+}
+#home ul li.active a {
+    border-bottom: 3px solid darkorange;
+}
+#home ul li a {
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 5px 20px;
+}
+#home ul li a:hover {
+    border-bottom: 3px solid darkorange;
+}
+#heading {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    color: #FFFFFF;
+}
+#heading p {
+    font-size: 48px;
+}
+.btn-heading {
+    color: #FFFFFF;
+}
+.btn-heading:hover {
+    background-color: darkorange;
+    transition: 0.5s all ease-in;
+}
+/*END - SECTION HOME*/
+
+
+
+
+/*START - ABOUT*/
+#about {
+    border: 1px solid;
+    height: 400px;
+}
+#aboutLeftWrapper {
+    float: left;
+    width: 50%;
+    height: 400px;
+}
+#aboutRightWrapper {
+    float: right;
+    width: 50%;
+    height: 400px;
+}
+#aboutRightWrapper img {
+    height: 80%;
+    width: auto;
+    margin-left: 21%;
+    margin-top: 5%;
+}
+/*END - ABOUT*/
+
+
+
+/*START - AWARD*/
+#award {
+    height: 500px;
+}
+#award img {
+    float: left;
+    width: 600px;
+    height: auto;
+    margin: 0 40px;
+}
+/*END - AWARD*/
+
+
+
+
+/*START - REVIEW*/
+#review {}
+#reviewWrapper {
+
+    overflow: auto;
+}
+.reviews {
+   
+    padding: 1%;
+    height: 350px;
+    width: 30%;
+    float: left;
+}
+.reviewsImageWrapper {
+    height: 50%;
+}
+.reviews img {
+    border-radius: 50%;
+    width: 70%;
+    transform: scale(0.5);
+}
+/*END - REVIEW*/
+
+
+
+/*START - FOOTER*/
+
+/*END -  FOOTER*/
+
+
+
+
+/*START - COMMON STYLE*/
+.uppercase {
+    text-transform: uppercase;
+}
+.light {
+    background-color: #FFFFFF;
+    color: #303030;
+}
+.dark {
+    /*background-color: #222222;*/
+    background-color: darkorange;
+    color: #FFFFFF;
+}
+.btn {
+    text-decoration: none;
+    border: 1px solid;
+    padding: 15px 30px;
+}
+.btn-light {
+    color: #222222;
+}
+.btn-dark {
+    color: #FFFFFF;
+}
+.removeMerginTop {
+    margin-top: -30px;
+}
+section {
+    padding: 100px 50px;
+}
+.sectionHeadingLabel {
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+.sectionDescription {
+    margin-bottom: 50px;
+}
+.textCenter {
+    text-align: center;
+}
+/*START - COMMON STYLE*/
+
+/*color 777777*/
