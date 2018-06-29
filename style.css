@@ -134,12 +134,26 @@ body {
     width: 70%;
     transform: scale(0.5);
 }
+
+.reviews .comment {
+    color: #777777;
+}
+
+.reviews .commentedBy{
+    color: #303030;
+    letter-spacing: 0.7px;
+    font-weight: bolder;
+}
 /*END - REVIEW*/
 
 
 
 /*START - FOOTER*/
-
+#footer input{
+    padding: 10px 20px;
+    width: 400px;
+    font-size: 20px;
+}
 /*END -  FOOTER*/
 
 
