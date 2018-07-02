@@ -21,7 +21,19 @@ body {
     width: 100px;
     height: 100px;
     margin: 20px 0 0 60px;
+    display : none;
 }
+
+.sticky{
+    background-color: #777777;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+
 #logoWrapper img {
     width: 100%;
     height: auto;
@@ -177,6 +189,7 @@ body {
     border: 1px solid;
     padding: 15px 30px;
 }
+
 .btn-light {
     color: #222222;
 }
