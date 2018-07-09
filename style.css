@@ -55,6 +55,7 @@ body {
     border-bottom: 3px solid darkorange;
 }
 #home ul li a {
+    letter-spacing: 2px;
     color: #FFFFFF;
     text-decoration: none;
     padding: 5px 20px;
@@ -63,6 +64,7 @@ body {
     border-bottom: 3px solid darkorange;
 }
 #heading {
+    letter-spacing: 2px;
     position: absolute;
     top: 40%;
     left: 50%;
@@ -74,7 +76,9 @@ body {
     font-size: 48px;
 }
 .btn-heading {
+    letter-spacing: 2px;
     color: #FFFFFF;
+    transition: 0.5s all ease-in;
 }
 .btn-heading:hover {
     background-color: darkorange;
@@ -87,6 +91,7 @@ body {
 
 /*START - ABOUT*/
 #about {
+    letter-spacing: 2px;
     border: 1px solid;
     height: 400px;
 }
@@ -103,8 +108,13 @@ body {
 #aboutRightWrapper img {
     height: 80%;
     width: auto;
-    margin-left: 21%;
-    margin-top: 5%;
+    transition: 0.7s all ease-in;
+}
+
+#aboutRightWrapper img:hover{
+    transform: scale(1.3);
+     transition: 0.7s all ease-out;
+  
 }
 /*END - ABOUT*/
 
@@ -112,6 +122,7 @@ body {
 
 /*START - AWARD*/
 #award {
+    letter-spacing: 2px;
     height: 500px;
 }
 #award img {
@@ -126,7 +137,13 @@ body {
 
 
 /*START - REVIEW*/
-#review {}
+#review {
+    letter-spacing: 2px;
+}
+#reviewHeading{
+    font-weight: 600;
+    font-size: 24px;
+}
 #reviewWrapper {
 
     overflow: auto;
@@ -148,6 +165,7 @@ body {
 }
 
 .reviews .comment {
+    letter-spacing: 1px;
     color: #777777;
 }
 
@@ -215,6 +233,7 @@ section {
     padding: 100px 50px;
 }
 .sectionHeadingLabel {
+    font-weight: 600;
     font-size: 32px;
     margin-bottom: 30px;
 }
