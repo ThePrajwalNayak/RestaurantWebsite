@@ -171,7 +171,7 @@ body {
 
 .reviews .commentedBy{
     color: #303030;
-    letter-spacing: 0.7px;
+    letter-spacing: 1px;
     font-weight: bolder;
 }
 /*END - REVIEW*/
@@ -179,10 +179,33 @@ body {
 
 
 /*START - FOOTER*/
+#footer{
+    letter-spacing: 2px;
+}
+#footer #header {
+    margin-bottom: -1%;
+}
 #footer input{
     padding: 10px 20px;
     width: 400px;
-    font-size: 20px;
+    font-size: 14px;
+    margin : 1% 0 2%;
+    text-align: center;
+}
+#socialConnect{
+    margin-top: 12%;
+}
+#socialConnect > p{
+    font-size: 12px;
+}
+#socialConnect i {
+    cursor: pointer;
+    margin-right: 1%;
+    transition: 0.5s all ease-in;
+}
+#socialConnect i:hover {
+    color: #222222;
+    transition: 0.5s all ease-in;
 }
 /*END -  FOOTER*/
 

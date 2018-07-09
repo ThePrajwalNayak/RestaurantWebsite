@@ -16,9 +16,9 @@ window.onscroll = function () {
         document.getElementById('liAbout').classList.add('active');
     } else if (windowYOffset > 1320 & windowYOffset < 2030) {
         document.getElementById('liAward').classList.add('active');
-    } else if (windowYOffset > 2031 & windowYOffset < 2100) {
+    } else if (windowYOffset > 2031 & windowYOffset < 2499) {
         document.getElementById('liReview').classList.add('active');
-    } else if (windowYOffset > 2101) {
+    } else if (windowYOffset > 2500) {
         document.getElementById('liFooter').classList.add('active');
     }
 }
