@@ -25,7 +25,7 @@ body {
 }
 
 .sticky{
-    background-color: #777777;
+    background-color: #303030;
     position: fixed;
     top: 0;
     left: 0;
@@ -192,9 +192,21 @@ body {
 
 .btn-light {
     color: #222222;
+    transition: 0.5s all ease-in;
+}
+.btn-light:hover{
+    background-color: #303030;
+    color: #FFFFFF;
+    transition: 0.5s all ease-in;
 }
 .btn-dark {
     color: #FFFFFF;
+    transition: 0.5s all ease-in;
+}
+.btn-dark:hover{
+    background-color: #FFFFFF;
+    color: darkorange;
+    transition: 0.5s all ease-in;
 }
 .removeMerginTop {
     margin-top: -30px;
