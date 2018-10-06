@@ -8,16 +8,16 @@ Responsive hotel websites
 ## Screen Shots
 
 ### Landing Page
-![](./images/ScreenShots/Landing Page.png)
+![](./images/ScreenShots/Landing%20Page.png)
 
 ### About Us
 ![](./images/ScreenShots/About%20Us.png)
 
 ### Four Square Review
-![](./images/ScreenShots/Four Square Review.png)
+![](./images/ScreenShots/Four%20Square%20Review.png)
 
 ### Contact Us
-![](./images/ScreenShots/Contact Us.png)
+![](./images/ScreenShots/Contact%20Us.png)
 
 ## Features
 Hotel management can show case hotel Interior design, Introduce their chefs and communicate effectively with customers using news letters option.
