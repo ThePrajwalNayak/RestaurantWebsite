@@ -1,6 +1,6 @@
-# RestaurantWebsite
+# Website-Hotel-TheVillage
 
-Demo - https://theprajwalnayak.github.io/RestaurantWebsite/
+Demo - https://theprajwalnayak.github.io/Website-Hotel-TheVillage/
 
 Responsive hotel websites
 
