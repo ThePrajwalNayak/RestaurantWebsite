@@ -18,5 +18,8 @@ npm install
 
 ng serve --open
 
+## Technology
+
+HTML5, CSS3
 
 
