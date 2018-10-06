@@ -1,4 +1,4 @@
-# Website-Hotel-TheVillage
+# TheVillage
 
 Demo - https://theprajwalnayak.github.io/Website-Hotel-TheVillage/
 
