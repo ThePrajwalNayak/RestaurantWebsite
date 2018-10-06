@@ -1,5 +1,7 @@
 # RestaurantWebsite
 
+Demo - https://theprajwalnayak.github.io/RestaurantWebsite/
+
 Responsive hotel websites
 
 ## Introducation
@@ -41,5 +43,8 @@ ng serve --open
 ## Technology
 
 HTML5, CSS3
+
+## Deployment to gh-pages instruction
+https://www.youtube.com/watch?v=zWZDH9L1jMg
 
 
