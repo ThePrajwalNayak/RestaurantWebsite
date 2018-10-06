@@ -32,9 +32,9 @@ Hotel management can show case hotel Interior design, Introduce their chefs and 
 
 ## Getting Started
 
-git clone https://github.com/ThePrajwalNayak/RestaurantWebsite.git
+git clone https://github.com/ThePrajwalNayak/Website-Hotel-TheVillage.git
 
-cd RestaurantWebsite
+cd Website-Hotel-TheVillage
 
 npm install
 
