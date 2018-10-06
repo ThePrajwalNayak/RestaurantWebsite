@@ -10,11 +10,17 @@ Responsive hotel websites
 ### Landing Page
 ![](./images/ScreenShots/Landing%20Page.png)
 
+---
+
 ### About Us
 ![](./images/ScreenShots/About%20Us.png)
 
+---
+
 ### Four Square Review
 ![](./images/ScreenShots/Four%20Square%20Review.png)
+
+---
 
 ### Contact Us
 ![](./images/ScreenShots/Contact%20Us.png)
