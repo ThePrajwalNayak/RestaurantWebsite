@@ -1,6 +1,6 @@
 # TheVillage
 
-Demo - https://theprajwalnayak.github.io/Website-Hotel-TheVillage/
+Demo - https://theprajwalnayak.github.io/the-village/
 
 Responsive hotel websites
 
@@ -32,9 +32,9 @@ Hotel management can show case hotel Interior design, Introduce their chefs and 
 
 ## Getting Started
 
-git clone https://github.com/ThePrajwalNayak/Website-Hotel-TheVillage.git
+git clone https://github.com/ThePrajwalNayak/the-village.git
 
-cd Website-Hotel-TheVillage
+cd the-village
 
 npm install
 
